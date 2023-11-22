@@ -13,7 +13,7 @@
         "provider": {
           "type": "http",
           "timeout": 5,
-          "url": "http://localhost:8080/employee/all"
+          "url": "http://localhost:8080/shampoo/all"
         }
       }
     ]
